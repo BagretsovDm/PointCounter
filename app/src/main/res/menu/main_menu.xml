@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/clear_all"
+        android:icon="@drawable/round_delete_forever_24"
+        android:title="@string/clear"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/add_player"
+        android:title="@string/add_player"
+        android:icon="@drawable/round_person_add_alt_24"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

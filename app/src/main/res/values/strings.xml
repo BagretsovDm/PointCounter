@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Point Counter</string>
+    <string name="players">Игроки</string>
+    <string name="clear">Очистить</string>
+    <string name="add_player">Добавить игрока</string>
+    <string name="pls_add">Пока список игроков пуст. \nДобавьте игроков</string>
+    <string name="enter_player_name">Введите имя игрока:</string>
+    <string name="accept">Подтвердить</string>
+    <string name="cancel">Отмена</string>
+    <string name="add_point">Добавить одно очко %s</string>
+    <string name="remove_point">Забрать одно очко у %s</string>
+    <string name="no_name">Неизвестный</string>
+    <string name="accept_dialog_title">Подтвердите действие</string>
+    <string name="warning">Вы уверены, что хотите удалить ВСЕХ игроков? Внимание! Данное действие необратимо!</string>
+</resources>
